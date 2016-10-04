@@ -1,2 +1,2 @@
-while "c"
+while "c":
     print "我爱"
