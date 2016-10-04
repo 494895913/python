@@ -1,4 +1,7 @@
 i=10
+total=0
 while i:
-    print ("我爱")
-i=i-1
+    i=i-1
+    total=total+1
+    print ("我爱   "+str(total))
+
