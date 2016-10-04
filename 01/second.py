@@ -1,0 +1,9 @@
+second = int(1)
+one_minute = second*60
+one_hour = one_minute*60
+one_day = one_hour*24
+one_year = one_day*365
+print ("one_minute= " + str(one_minute) + " second")
+print ("one_hour= " + str(one_hour) + " second")
+print ("one_day= " + str(one_day)  + " second")
+print ("one_year= " + str(one_year) + " second")
