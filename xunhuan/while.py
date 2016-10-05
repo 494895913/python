@@ -1,2 +1,4 @@
+i=0
 while "c":
-    print "我爱"
+    i+=1
+    print ("I love   "+str(i))
